@@ -36,7 +36,7 @@
 |---------|------------|
 | [Event Management System](https://github.com/gaurav34-dev/Event-Management-System) | PHP, jQuery, MySQL|
 | [Fitness Tracker App](https://github.com/gaurav34-dev/fitness-project) | React Native, Tailwind|
-| [Malware Analysis Toolkit](https://github.com/gaurav34-dev/malware-toolkit) | Python, Pandas, ELK |
+| [Malware Analysis Toolkit](https://github.com/gaurav34-dev/cyber-security-essentials) | Python, Pandas, ELK |
 
 ## 🏆 Certifications
 [![PCEP](https://img.shields.io/badge/Python_PCEP-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.credly.com/badges/12345)
