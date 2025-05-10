@@ -22,6 +22,22 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+### **Databases & Tools**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## 💻 Professional Experience
+
+### **SAS Institute Inc** | Full Stack Developer *(Mar 2024 - Present)*
+- 🚀 Revamped backend systems using **Golang** achieving 10% higher test coverage
+- 🔧 Reduced React conversion backlog by 10% through process optimization
+- 🛠️ Consolidated 7+ microservices into unified platform components
+
+### **Amtrak** | Ecommerce Developer Intern *(Sep 2022 - Dec 2022)*
+- 🛒 Implemented GDPR compliance features using **Angular** and Adobe Experience Manager
+- 🔍 Conducted third-party cookie audits affecting 200+ tracking elements
+
 ## 💼 Featured Projects
 
 ### 🚀 Professional Work
@@ -45,12 +61,13 @@
 ## 📈 Contribution Matrix
 [![Contribution Grid](https://ghchart.rshah.org/gaurav34-dev)](https://github.com/gaurav34-dev)
 
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Optimizing Go Microservices for Time Series Data](https://medium.com/@gbaser1996)
-- [React Testing Strategies in Enterprise Applications](https://medium.com/@gbaser1996)
-- [GDPR Compliance in Modern Web Apps](https://medium.com/@gbaser1996)
-<!-- BLOG-POST-LIST:END -->
+## 📚 Education & Certifications
+**University of Maryland, Baltimore County**  
+*MS Computer Science | GPA: 3.71/4.0 | 2021-2023*  
+📖 Relevant Coursework: Malware Analysis, Quantum Computation, Data Privacy
+
+**Institute of Engineering & Technology, DAVV**  
+*BE Information Technology | GPA: 3.6/4.0 | 2015-2019*
 
 ## 🤝 Let's Collaborate!
 - 🔍 Seeking full-time roles starting May 2025
