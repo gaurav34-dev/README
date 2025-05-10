@@ -64,7 +64,6 @@
 ## 📚 Education & Certifications
 **University of Maryland, Baltimore County**  
 *MS Computer Science | GPA: 3.71/4.0 | 2021-2023*  
-📖 Relevant Coursework: Malware Analysis, Quantum Computation, Data Privacy
 
 **Institute of Engineering & Technology, DAVV**  
 *BE Information Technology | GPA: 3.6/4.0 | 2015-2019*
