@@ -32,8 +32,8 @@
 | [Blockchain Hackathon Portal](https://github.com/gaurav34-dev/blockchaincenter-hackathon-south-florida-website) | Next.js, Figma, CSS3 | 100% stakeholder approval • Mobile-first responsive design |
 
 ### 🧠 Personal Projects
-| Project | Tech Stack | Live Demo |
-|---------|------------|-----------|
+| Project | Tech Stack | 
+|---------|------------|
 | [Event Management System](https://github.com/gaurav34-dev/Event-Management-System) | PHP, jQuery, MySQL|
 | [Fitness Tracker App](https://github.com/gaurav34-dev/fitness-project) | React Native, Tailwind|
 | [Malware Analysis Toolkit](https://github.com/gaurav34-dev/malware-toolkit) | Python, Pandas, ELK |
