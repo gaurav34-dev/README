@@ -27,16 +27,16 @@
 ### 🚀 Professional Work
 | Project | Tech Stack | Highlights |
 |---------|------------|------------|
-| [SAS Forecasting Platform](https://github.com/gaurav34-dev/sas-forecasting) | Go, React, Kubernetes | Increased test coverage by 23% • Consolidated 7+ microservices |
-| [Amtrak E-Commerce](https://github.com/gaurav34-dev/amtrak-ecomm) | Angular, AEM, Jira | Fixed 6+ critical frontend defects • GDPR compliance implementation |
-| [Blockchain Hackathon Portal](https://github.com/gaurav34-dev/web3-hackathon) | Next.js, Figma, CSS3 | 100% stakeholder approval • Mobile-first responsive design |
+| [SAS Forecasting Platform](#) | Go, React, Kubernetes | Increased test coverage by 23% • Consolidated 7+ microservices |
+| [Amtrak E-Commerce](#) | Angular, AEM, Jira | Fixed 6+ critical frontend defects • GDPR compliance implementation |
+| [Blockchain Hackathon Portal](https://github.com/gaurav34-dev/blockchaincenter-hackathon-south-florida-website) | Next.js, Figma, CSS3 | 100% stakeholder approval • Mobile-first responsive design |
 
 ### 🧠 Personal Projects
 | Project | Tech Stack | Live Demo |
 |---------|------------|-----------|
-| [Event Management System](https://github.com/gaurav34-dev/event-mgmt) | PHP, jQuery, MySQL | [Demo](http://events.demo.gauravbaser.com) |
-| [Fitness Tracker App](https://github.com/gaurav34-dev/fitness-native) | React Native, Tailwind | [APK](https://expo.dev/@gaurav34-dev/FitTrack) |
-| [Malware Analysis Toolkit](https://github.com/gaurav34-dev/malware-toolkit) | Python, Pandas, ELK | WIP 🚧 |
+| [Event Management System](https://github.com/gaurav34-dev/Event-Management-System) | PHP, jQuery, MySQL|
+| [Fitness Tracker App](https://github.com/gaurav34-dev/fitness-project) | React Native, Tailwind|
+| [Malware Analysis Toolkit](https://github.com/gaurav34-dev/malware-toolkit) | Python, Pandas, ELK |
 
 ## 🏆 Certifications
 [![PCEP](https://img.shields.io/badge/Python_PCEP-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.credly.com/badges/12345)
