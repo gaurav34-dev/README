@@ -27,8 +27,8 @@
 ### 🚀 Professional Work
 | Project | Tech Stack | Highlights |
 |---------|------------|------------|
-| [SAS Forecasting Platform](#) | Go, React, Kubernetes | Increased test coverage by 23% • Consolidated 7+ microservices |
-| [Amtrak E-Commerce](#) | Angular, AEM, Jira | Fixed 6+ critical frontend defects • GDPR compliance implementation |
+| [Model Studio](https://video.sas.com/detail/video/6326334754112/build-models-with-sas-model-studio) | Go, React, Kubernetes | Increased test coverage by 23% • Consolidated 7+ microservices |
+| [Amtrak E-Commerce](https://www.amtrak.com/) | Angular, AEM, Jira | Fixed 6+ critical frontend defects • GDPR compliance implementation |
 | [Blockchain Hackathon Portal](https://github.com/gaurav34-dev/blockchaincenter-hackathon-south-florida-website) | Next.js, Figma, CSS3 | 100% stakeholder approval • Mobile-first responsive design |
 
 ### 🧠 Personal Projects
@@ -36,7 +36,6 @@
 |---------|------------|
 | [Event Management System](https://github.com/gaurav34-dev/Event-Management-System) | PHP, jQuery, MySQL|
 | [Fitness Tracker App](https://github.com/gaurav34-dev/fitness-project) | React Native, Tailwind|
-| [Malware Analysis Toolkit](https://github.com/gaurav34-dev/cyber-security-essentials) | Python, Pandas, ELK |
 
 ## 🏆 Certifications
 [![PCEP](https://img.shields.io/badge/Python_PCEP-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.credly.com/badges/12345)
